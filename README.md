@@ -7,3 +7,5 @@ scv.pkl is a pre-trained file for svm ,your can use svm to judge whether your in
 all my code is based on Tensorflow-slim,you had better read https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
 my model is only a simple example for you ,it is easy but you may dig its potential and expand its power with your crazy idea to make is much more coooooooooooooooooooooool!
 Happy in DeepLearning!
+see more in my csdn blog https://blog.csdn.net/piglake/article/details/8509605
+or connect me by zxt235813@163.com
